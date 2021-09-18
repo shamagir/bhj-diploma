@@ -1,0 +1,492 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"project_type"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"font-st",
+				"font-style\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"new",
+				"news-text"
+			],
+			[
+				"news-",
+				"news-number"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"list-style",
+				"list-style-type\tproperty"
+			],
+			[
+				"ba",
+				"background-repeat\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"paddi",
+				"padding-right\tproperty"
+			],
+			[
+				"le",
+				"left\tproperty"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"text-al",
+				"text-align\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"m",
+				"min-width\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"f",
+				"flex-start\talign-items"
+			],
+			[
+				"flex-",
+				"flex-direction\tproperty"
+			],
+			[
+				"list-st",
+				"list-style-type\tproperty"
+			],
+			[
+				"ma",
+				"max-width\tproperty"
+			],
+			[
+				"n",
+				"unset\tborder-radius"
+			],
+			[
+				"rad",
+				"radio-group"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"bacg",
+				"background-color\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"ri",
+				"right\tproperty"
+			],
+			[
+				"po",
+				"position\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"font-",
+				"font-style\tproperty"
+			],
+			[
+				"dis",
+				"display\tproperty"
+			],
+			[
+				"cur",
+				"cursor\tproperty"
+			],
+			[
+				"text-",
+				"text-align\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"outline-",
+				"outline-offset\tproperty"
+			],
+			[
+				"hei",
+				"height\tproperty"
+			],
+			[
+				"aline",
+				"align-content\tproperty"
+			],
+			[
+				"flex",
+				"flex-shrink\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"op",
+				"opacity\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 3516,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"paca",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+			"Package Control"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/shamagir/Sites/mosproekt.local/public_html/wp-content/themes/mosproekt-3/app/scss/activity-page.scss",
+		"/Users/shamagir/Sites/mosproekt.local/public_html/wp-content/themes/mosproekt-3/templates/template-bim.twig",
+		"/Users/shamagir/Sites/mosproekt.local/public_html/wp-content/themes/mosproekt-3/app/scss/components/_first-section.scss",
+		"/Users/shamagir/Sites/mosproekt.local/public_html/wp-content/themes/mosproekt-3/app/scss/main.scss",
+		"/Users/shamagir/Sites/mosproekt.local/public_html/wp-content/themes/mosproekt-3/templates/partial/superCover.twig",
+		"/Users/shamagir/Sites/mosproekt.local/public_html/wp-content/themes/mosproekt-3/app/scss/main-page.scss",
+		"/Users/shamagir/Sites/mosproekt.local/public_html/wp-content/themes/mosproekt-3/templates/page-31.twig",
+		"/Users/shamagir/Sites/mosproekt.local/public_html/wp-content/themes/mosproekt-3/app/scss/contacts-page.scss",
+		"/Users/shamagir/Sites/mosproekt.local/public_html/wp-content/themes/mosproekt-3/app/scss/components/_footer.scss",
+		"/Users/shamagir/Sites/mosproekt.local/public_html/wp-content/themes/mosproekt-3/templates/template-about-boss.twig",
+		"/Users/shamagir/Sites/mosproekt.local/public_html/wp-content/themes/mosproekt-3/template__about-boss.php",
+		"/Users/shamagir/Downloads/mosinzh/map/posts-on-yamap/includes/frontend.php",
+		"/Users/shamagir/Downloads/mosinzh/map/posts-on-yamap/js/posts-on-yamap-frontend.js",
+		"/Users/shamagir/Downloads/mosinzh/map/posts-on-yamap/posts-on-yamap.php",
+		"/Users/shamagir/Downloads/mosinzh/map/posts-on-yamap/map/index.html",
+		"/Users/shamagir/Downloads/mosinzh/map/posts-on-yamap/map/css/style.css",
+		"/Users/shamagir/Downloads/mosinzh/map/posts-on-yamap/map/js/script.js",
+		"/private/var/folders/75/h4328z0n7lx4htk4gxl5z1jr0000gn/T/ch.sudo.cyberduck/5060339c-2fd8-4f35-a0bf-59057a3773c7/home/shamagir/sites/mosinzh.shamagir.ru/public_html/wp-content/plugins/posts-on-yamap/includes/frontend.php",
+		"/Users/shamagir/Downloads/mosinzh/map/html/frontend.php",
+		"/private/var/folders/75/h4328z0n7lx4htk4gxl5z1jr0000gn/T/ch.sudo.cyberduck/5060339c-2fd8-4f35-a0bf-59057a3773c7/home/shamagir/sites/shamagir.ru/public_html/mosinzh/map/html/getter.php",
+		"/private/var/folders/75/h4328z0n7lx4htk4gxl5z1jr0000gn/T/ch.sudo.cyberduck/5060339c-2fd8-4f35-a0bf-59057a3773c7/home/shamagir/sites/shamagir.ru/public_html/mosinzh/map/html/css/style.css",
+		"/private/var/folders/75/h4328z0n7lx4htk4gxl5z1jr0000gn/T/ch.sudo.cyberduck/5060339c-2fd8-4f35-a0bf-59057a3773c7/home/shamagir/sites/shamagir.ru/public_html/mosinzh/map/html/index.html",
+		"/private/var/folders/75/h4328z0n7lx4htk4gxl5z1jr0000gn/T/ch.sudo.cyberduck/5060339c-2fd8-4f35-a0bf-59057a3773c7/home/shamagir/sites/shamagir.ru/public_html/mosinzh/map/html/js/script.js",
+		"/Users/shamagir/Downloads/mailing 2021/html/anonse.html",
+		"/Users/shamagir/Downloads/mailing 2021/html/images/key-tems.svg",
+		"/Users/shamagir/Downloads/mailing 2021/html/images/dayjest.svg",
+		"/Users/shamagir/Downloads/mosinzh/map/posts-on-gmap/options.php",
+		"/Users/shamagir/Downloads/mosinzh/map/html/js/style.js",
+		"/Users/shamagir/Downloads/mosinzh/structure/css/style.css",
+		"/Users/shamagir/Downloads/mosinzh/structure/index.html",
+		"/Users/shamagir/Downloads/mosinzh/map/html/js/script.js",
+		"/Users/shamagir/Downloads/mosinzh/map/html/index.html",
+		"/Users/shamagir/Downloads/mosinzh/map/posts-on-gmap/js/posts-on-gmap-backend.js",
+		"/Users/shamagir/Downloads/mosinzh/structure/js/script.js",
+		"/Users/shamagir/Downloads/mosinzh/map/posts-on-yamap/js/posts-on-gmap-backend.js",
+		"/Users/shamagir/Downloads/mq-diploma/svg/form-arrows.svg",
+		"/Users/shamagir/Downloads/mq-diploma/css/style.css",
+		"/Users/shamagir/Downloads/mq-diploma/index.html",
+		"/Users/shamagir/Downloads/mq-diploma/mq-diploma.sublime-workspace",
+		"/Users/shamagir/Sites/errand.local/public_html/wp-content/plugins/rocketshipit/rocketshipit.php",
+		"/Users/shamagir/Sites/errand.local/public_html/wp-content/plugins/rocketshipit/js/script.js",
+		"/Users/shamagir/Downloads/mj-diploma/<header class=\"header\">.html",
+		"/Users/shamagir/Downloads/mj-diploma/@font-face {.css",
+		"/Users/shamagir/Sites/errand.local/public_html/wp-content/plugins/flamingo/admin/js/script.js",
+		"/Users/shamagir/Sites/errand.local/public_html/wp-content/plugins/rocketshipit/test.php",
+		"/Users/shamagir/Sites/errand.local/public_html/.htaccess",
+		"/Users/shamagir/Sites/errand.local/public_html/wp-content/themes/watch-technicians - theme/functions.php",
+		"/Users/shamagir/Sites/errand.local/public_html/wp-config.php",
+		"/Users/shamagir/Sites/errand.local/public_html/wp-content/plugins/rocketshipit/README.md",
+		"/Users/shamagir/Sites/errand.local/public_html/wp-content/plugins/rocketshipit/working-test.php",
+		"/Users/shamagir/Sites/errand.local/public_html/wp-content/plugins/rocketshipit/.gitignore",
+		"/Users/shamagir/Downloads/tests/index.html",
+		"/private/var/folders/75/h4328z0n7lx4htk4gxl5z1jr0000gn/T/4253819c-5295-42c1-a824-709da9586b1b/home/rustur/sites/rustur.com.ru/public_html/wp-content/themes/rustur/index.php",
+		"/Users/shamagir/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/shamagir/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 71.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.js",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3516,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 70.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bhj-diploma.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
